@@ -1,3 +1,3 @@
-module github.com/ivanlebron/go-figure
+module github.com/iwanlebron/figure-go
 
 go 1.20
